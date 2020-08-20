@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393174953886",
+    "firebase_url": "https://pixel-exercise.firebaseio.com",
+    "project_id": "pixel-exercise",
+    "storage_bucket": "pixel-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393174953886:android:f71261f22a795f436cf08f",
+        "android_client_info": {
+          "package_name": "com.stadproject.pixel_exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393174953886-s3cv4lbc3en50o0enoslte3do9nqf77p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmY4_hpX5a6z4Og2Kmbp4EfxjR5lkvdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393174953886-s3cv4lbc3en50o0enoslte3do9nqf77p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
